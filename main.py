@@ -1,9 +1,22 @@
+#  ____      _         ___  
+# |  _ \ ___| |_ _ __ / _ \ 
+# | |_) / _ \ __| '__| | | |
+# |  _ <  __/ |_| |  | |_| |
+# |_| \_\___|\__|_|   \___/ 
+
+# Libraries
 import pandas as pd
 from speech_recognition import Microphone, Recognizer, UnknownValueError
 import spotipy as sp
 from spotipy.oauth2 import SpotifyOAuth
 
 from pepper import *
+
+print(" ____      _         ___  ")
+print("|  _ \ ___| |_ _ __ / _ \ ")
+print("| |_) / _ \ __| '__| | | |")
+print("|  _ <  __/ |_| |  | |_| |")
+print("|_| \_\___|\__|_|   \___/ ")
 
 """
 To run this script, you must have a file in this directory called 'setup.txt'
