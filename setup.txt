@@ -1,0 +1,6 @@
+client_id=f1f07bf5a1a045bca73e9c58c7838ec3
+client_secret=aef80a87153d4c9ead494accc55081a2
+device_name=XXXXXXXXX
+redirect_uri=https://example.com/callback/
+username=XXXXXXXXXXXXX
+scope=user-read-private user-read-playback-state user-modify-playback-state
