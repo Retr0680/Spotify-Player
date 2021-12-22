@@ -1,4 +1,4 @@
-### Spotify-player
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Spotify%20Player&fontSize=57&reversal=true&desc=&animation=fadeIn&descSize=26&descAlignY=62&section=header)
 
 [![Version-1](https://img.shields.io/badge/Version-1-yellow)](https://github.com/Retr0680/Spotify-Player)
 [![MIT](https://img.shields.io/badge/License-MIT-blue)](https://img.shields.io/badge/License-MIT-blue)
